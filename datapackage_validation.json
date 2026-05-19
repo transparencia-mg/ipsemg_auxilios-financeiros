@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.054,
+  "time": 0.064,
   "errors": [],
   "tasks": [
     {
@@ -52,13 +52,13 @@
         "scheme": "file",
         "title": "Auxilios financeiros",
         "stats": {
-          "hash": "9c093fc37c9a1b2cd1c297c458b026a9",
-          "bytes": 27484,
+          "hash": "034ac86b2618af17e3a5c4b7b1f24037",
+          "bytes": 28071,
           "fields": 5,
           "rows": 656
         }
       },
-      "time": 0.046,
+      "time": 0.054,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -142,7 +142,7 @@
             "2025-02-25",
             "ÁGUAS FORMOSAS",
             "2488,15",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 1,
@@ -165,9 +165,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "ALMENARA",
+            "ALMENARA ",
             "1976,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 2,
@@ -192,7 +192,7 @@
             "2025-02-25",
             "ALVINÓPOLIS",
             "2513,08",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 3,
@@ -215,9 +215,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "ASTOLFO DUTRA",
+            "ASTOLFO DUTRA ",
             "500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 4,
@@ -242,7 +242,7 @@
             "2025-02-25",
             "BELA VISTA DE MINAS",
             "1924,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 5,
@@ -267,7 +267,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 6,
@@ -292,7 +292,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "2131,34",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 7,
@@ -317,7 +317,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "2048,26",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 8,
@@ -342,7 +342,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 9,
@@ -367,7 +367,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "750,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 10,
@@ -392,7 +392,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 11,
@@ -417,7 +417,7 @@
             "2025-02-25",
             "BELO HORIZONTE",
             "2598,38",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 12,
@@ -442,7 +442,7 @@
             "2025-02-25",
             "BERTÓPOLIS",
             "1868,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 13,
@@ -467,7 +467,7 @@
             "2025-02-25",
             "BOM DESPACHO",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 14,
@@ -490,9 +490,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "CONSELHEIRO LAFAIETE",
+            "CONSELHEIRO LAFAIETE ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 15,
@@ -517,7 +517,7 @@
             "2025-02-25",
             "CORINTO",
             "300,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 16,
@@ -542,7 +542,7 @@
             "2025-02-25",
             "DESTERRO DE ENTRE RIOS",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 17,
@@ -565,9 +565,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "DIAMANTINA",
+            "DIAMANTINA ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 18,
@@ -715,9 +715,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "DIVINÓPOLIS",
+            "DIVINÓPOLIS ",
             "1579,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 24,
@@ -740,9 +740,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "DIVINÓPOLIS",
+            "DIVINÓPOLIS ",
             "1743,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 25,
@@ -765,9 +765,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "DIVINÓPOLIS",
+            "DIVINÓPOLIS ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 26,
@@ -790,9 +790,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "DIVINÓPOLIS",
+            "DIVINÓPOLIS ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 27,
@@ -815,9 +815,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "FORMIGA",
+            "FORMIGA ",
             "1625,7",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 28,
@@ -842,7 +842,7 @@
             "2025-02-25",
             "IBIRITÉ",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 29,
@@ -865,7 +865,7 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "IPATINGA",
+            "IPATINGA ",
             "1059,0",
             "NATALIDADE",
             "1"
@@ -892,7 +892,7 @@
             "2025-02-25",
             "ITAJUBA",
             "1486,82",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 31,
@@ -917,7 +917,7 @@
             "2025-02-25",
             "ITAPECERICA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 32,
@@ -940,9 +940,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "ITAÚNA",
+            "ITAÚNA ",
             "505,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 33,
@@ -967,7 +967,7 @@
             "2025-02-25",
             "JEQUITINHONHA",
             "2400,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 34,
@@ -990,9 +990,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "JUIZ DE FORA",
+            "JUIZ DE FORA ",
             "1620,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 35,
@@ -1015,9 +1015,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "JUIZ DE FORA",
+            "JUIZ DE FORA ",
             "1694,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 36,
@@ -1040,9 +1040,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "JUIZ DE FORA",
+            "JUIZ DE FORA ",
             "1000,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 37,
@@ -1067,7 +1067,7 @@
             "2025-02-25",
             "MALACACHETA",
             "1924,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 38,
@@ -1090,9 +1090,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "MONTE CARMELO",
+            "MONTE CARMELO ",
             "2485,12",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 39,
@@ -1115,9 +1115,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "MONTE SANTO DE MINAS",
+            "MONTE SANTO DE MINAS ",
             "1934,47",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 40,
@@ -1142,7 +1142,7 @@
             "2025-02-25",
             "MURIAÉ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 41,
@@ -1167,7 +1167,7 @@
             "2025-02-25",
             "MURIAÉ",
             "2273,5",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 42,
@@ -1192,7 +1192,7 @@
             "2025-02-25",
             "NOVA SERRANA",
             "1547,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 43,
@@ -1217,7 +1217,7 @@
             "2025-02-25",
             "OLIVEIRA",
             "2130,1",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 44,
@@ -1242,7 +1242,7 @@
             "2025-02-25",
             "PERDÕES",
             "1831,57",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 45,
@@ -1265,9 +1265,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "PIAU",
+            "PIAU ",
             "1800,3",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 46,
@@ -1292,7 +1292,7 @@
             "2025-02-25",
             "PONTE NOVA",
             "2541,6",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 47,
@@ -1317,7 +1317,7 @@
             "2025-02-25",
             "PONTE NOVA",
             "1320,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 48,
@@ -1342,7 +1342,7 @@
             "2025-02-25",
             "RESENDE COSTA",
             "1540,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 49,
@@ -1367,7 +1367,7 @@
             "2025-02-25",
             "RESPLENDOR",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 50,
@@ -1392,7 +1392,7 @@
             "2025-02-25",
             "RIO ESPERA",
             "1800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 51,
@@ -1417,7 +1417,7 @@
             "2025-02-25",
             "SABARÁ",
             "2378,54",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 52,
@@ -1440,9 +1440,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "SANTA LUZIA",
+            "SANTA LUZIA ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 53,
@@ -1467,7 +1467,7 @@
             "2025-02-25",
             "SÃO DOMINGOS DO PRATA",
             "1786,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 54,
@@ -1490,9 +1490,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "SÃO JOÃO DEL REI",
+            "SÃO JOÃO DEL REI ",
             "1986,37",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 55,
@@ -1515,9 +1515,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "SÃO JOÃO DO PARAÍSO",
+            "SÃO JOÃO DO PARAÍSO ",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 56,
@@ -1540,9 +1540,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "SÃO JOSÉ DO JACURI",
+            "SÃO JOSÉ DO JACURI ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 57,
@@ -1565,9 +1565,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "TEÓFILO OTONI",
+            "TEÓFILO OTONI ",
             "2070,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 58,
@@ -1590,7 +1590,7 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "TEÓFILO OTONI",
+            "TEÓFILO OTONI ",
             "1059,0",
             "NATALIDADE",
             "1"
@@ -1615,9 +1615,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "TIMOTEO",
+            "TIMOTEO ",
             "1477,36",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 60,
@@ -1642,7 +1642,7 @@
             "2025-02-25",
             "TRÊS PONTAS",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 61,
@@ -1667,7 +1667,7 @@
             "2025-02-25",
             "UBERABA",
             "800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 62,
@@ -1692,7 +1692,7 @@
             "2025-02-25",
             "UBERLÂNDIA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 63,
@@ -1717,7 +1717,7 @@
             "2025-02-25",
             "VARGINHA",
             "2485,12",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 64,
@@ -1740,9 +1740,9 @@
           "fieldPosition": 1,
           "cells": [
             "2025-02-25",
-            "VIÇOSA",
+            "VIÇOSA ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 65,
@@ -1767,7 +1767,7 @@
             "2025-03-25",
             "UBÁ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 66,
@@ -1792,7 +1792,7 @@
             "2025-03-25",
             "TEÓFILO OTONI",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 67,
@@ -1817,7 +1817,7 @@
             "2025-03-25",
             "BELO HORIZONTE",
             "550,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 68,
@@ -1842,7 +1842,7 @@
             "2025-03-25",
             "ARAGUARI",
             "2212,79",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 69,
@@ -1867,7 +1867,7 @@
             "2025-03-25",
             "BELO HORIZONTE",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 70,
@@ -1892,7 +1892,7 @@
             "2025-03-25",
             "MONTES CLAROS",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 71,
@@ -1917,7 +1917,7 @@
             "2025-03-25",
             "MONTES CLAROS",
             "1786,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 72,
@@ -1942,7 +1942,7 @@
             "2025-03-25",
             "MURIAÉ",
             "800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 73,
@@ -1967,7 +1967,7 @@
             "2025-03-25",
             "ESTIVA",
             "1579,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 74,
@@ -1992,7 +1992,7 @@
             "2025-03-25",
             "RESENDE COSTA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 75,
@@ -2017,7 +2017,7 @@
             "2025-03-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "1881,79",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 76,
@@ -2042,7 +2042,7 @@
             "2025-03-25",
             "MONTES CLAROS",
             "1800,3",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 77,
@@ -2067,7 +2067,7 @@
             "2025-03-25",
             "NOVA LIMA",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 78,
@@ -2092,7 +2092,7 @@
             "2025-03-25",
             "NEPOMUCENO",
             "1998,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 79,
@@ -2117,7 +2117,7 @@
             "2025-03-25",
             "CONTAGEM",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 80,
@@ -2142,7 +2142,7 @@
             "2025-03-25",
             "UBERABA",
             "1852,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 81,
@@ -2167,7 +2167,7 @@
             "2025-03-25",
             "BELO HORIZONTE",
             "1807,05",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 82,
@@ -2192,7 +2192,7 @@
             "2025-03-25",
             "NOVA ERA",
             "850,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 83,
@@ -2217,7 +2217,7 @@
             "2025-03-25",
             "SÃO SEBASTIÃO DA VARGEM ALEGRE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 84,
@@ -2317,7 +2317,7 @@
             "2025-04-25",
             "DIVINÓPOLIS",
             "1564,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 88,
@@ -2342,7 +2342,7 @@
             "2025-04-25",
             "RIO PARDO DE MINAS",
             "1924,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 89,
@@ -2367,7 +2367,7 @@
             "2025-04-25",
             "BELO HORIZONTE",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 90,
@@ -2392,7 +2392,7 @@
             "2025-04-25",
             "DIVINÓPOLIS",
             "1743,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 91,
@@ -2417,7 +2417,7 @@
             "2025-04-25",
             "TIMÓTEO",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 92,
@@ -2442,7 +2442,7 @@
             "2025-04-25",
             "JOÃO PINHEIRO",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 93,
@@ -2467,7 +2467,7 @@
             "2025-04-25",
             "ITUIUTABA",
             "2231,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 94,
@@ -2492,7 +2492,7 @@
             "2025-04-25",
             "UBÁ",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 95,
@@ -2517,7 +2517,7 @@
             "2025-04-25",
             "VISCONDE DO RIO BRANCO",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 96,
@@ -2542,7 +2542,7 @@
             "2025-04-25",
             "SANTA LUZIA",
             "2795,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 97,
@@ -2567,7 +2567,7 @@
             "2025-04-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 98,
@@ -2592,7 +2592,7 @@
             "2025-04-25",
             "BETIM",
             "2638,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 99,
@@ -2617,7 +2617,7 @@
             "2025-04-25",
             "JEQUITINHONHA",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 100,
@@ -2642,7 +2642,7 @@
             "2025-04-25",
             "POUSO ALEGRE",
             "1700,81",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 101,
@@ -2667,7 +2667,7 @@
             "2025-04-25",
             "TEÓFILO OTONI",
             "1400,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 102,
@@ -2692,7 +2692,7 @@
             "2025-04-25",
             "BETIM",
             "2610,73",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 103,
@@ -2717,7 +2717,7 @@
             "2025-04-25",
             "GUIRICEMA",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 104,
@@ -2742,7 +2742,7 @@
             "2025-04-25",
             "PARAOPEBA",
             "2134,95",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 105,
@@ -2767,7 +2767,7 @@
             "2025-04-25",
             "MONTES CLAROS",
             "1700,81",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 106,
@@ -2792,7 +2792,7 @@
             "2025-04-25",
             "ARICANDUVA",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 107,
@@ -2817,7 +2817,7 @@
             "2025-04-25",
             "BOM DESPACHO",
             "1917,11",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 108,
@@ -2842,7 +2842,7 @@
             "2025-04-25",
             "PAVÃO",
             "2541,6",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 109,
@@ -2867,7 +2867,7 @@
             "2025-04-25",
             "DIVINÓPOLIS",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 110,
@@ -2892,7 +2892,7 @@
             "2025-04-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 111,
@@ -2917,7 +2917,7 @@
             "2025-04-25",
             "OLIVEIRA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 112,
@@ -2942,7 +2942,7 @@
             "2025-04-25",
             "BELO HORIZONTE",
             "1616,59",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 113,
@@ -2967,7 +2967,7 @@
             "2025-04-25",
             "FORMIGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 114,
@@ -2992,7 +2992,7 @@
             "2025-04-25",
             "TEÓFILO OTONI",
             "1786,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 115,
@@ -3017,7 +3017,7 @@
             "2025-04-25",
             "ITABIRA",
             "1430,15",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 116,
@@ -3092,7 +3092,7 @@
             "2025-05-25",
             "PATOS DE MINAS",
             "2640,44",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 119,
@@ -3117,7 +3117,7 @@
             "2025-05-25",
             "NANUQUE",
             "950,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 120,
@@ -3142,7 +3142,7 @@
             "2025-05-25",
             "SETE LAGOAS",
             "1240,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 121,
@@ -3167,7 +3167,7 @@
             "2025-05-25",
             "JANAÚBA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 122,
@@ -3192,7 +3192,7 @@
             "2025-05-25",
             "ÁGUAS VERMELHAS",
             "1786,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 123,
@@ -3217,7 +3217,7 @@
             "2025-05-25",
             "ITAOBIM",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 124,
@@ -3242,7 +3242,7 @@
             "2025-05-25",
             "BELO HORIZONTE",
             "1659,33",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 125,
@@ -3267,7 +3267,7 @@
             "2025-05-25",
             "SÃO FRANCISCO",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 126,
@@ -3292,7 +3292,7 @@
             "2025-05-25",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 127,
@@ -3317,7 +3317,7 @@
             "2025-05-25",
             "UBERLÂNDIA",
             "1100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 128,
@@ -3342,7 +3342,7 @@
             "2025-05-25",
             "MONTES CLAROS",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 129,
@@ -3367,7 +3367,7 @@
             "2025-05-25",
             "SÃO JOÃO DEL REI",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 130,
@@ -3392,7 +3392,7 @@
             "2025-05-25",
             "RIBEIRÃO DAS NEVES",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 131,
@@ -3417,7 +3417,7 @@
             "2025-05-25",
             "JANUÁRIA",
             "1618,84",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 132,
@@ -3442,7 +3442,7 @@
             "2025-05-25",
             "TEÓFILO OTONI",
             "2290,01",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 133,
@@ -3467,7 +3467,7 @@
             "2025-05-25",
             "MURIAÉ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 134,
@@ -3492,7 +3492,7 @@
             "2025-05-25",
             "SANTA JULIANA",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 135,
@@ -3517,7 +3517,7 @@
             "2025-05-25",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 136,
@@ -3542,7 +3542,7 @@
             "2025-05-25",
             "PEDRA AZUL",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 137,
@@ -3567,7 +3567,7 @@
             "2025-05-25",
             "UBERABA",
             "2472,32",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 138,
@@ -3592,7 +3592,7 @@
             "2025-05-25",
             "CAXAMBU",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 139,
@@ -3617,7 +3617,7 @@
             "2025-05-25",
             "ROMARIA",
             "1546,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 140,
@@ -3642,7 +3642,7 @@
             "2025-05-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 141,
@@ -3667,7 +3667,7 @@
             "2025-05-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 142,
@@ -3692,7 +3692,7 @@
             "2025-05-25",
             "BELO HORIZONTE",
             "1990,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 143,
@@ -3717,7 +3717,7 @@
             "2025-05-25",
             "CLÁUDIO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 144,
@@ -3742,7 +3742,7 @@
             "2025-05-25",
             "BOM DESPACHO",
             "1579,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 145,
@@ -3767,7 +3767,7 @@
             "2025-05-25",
             "PATOS DE MINAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 146,
@@ -3792,7 +3792,7 @@
             "2025-05-25",
             "FORMIGA",
             "2314,41",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 147,
@@ -3817,7 +3817,7 @@
             "2025-05-25",
             "CORONEL FABRICIANO",
             "1089,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 148,
@@ -3842,7 +3842,7 @@
             "2025-05-25",
             "BELO HORIZONTE",
             "1000,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 149,
@@ -3867,7 +3867,7 @@
             "2025-05-25",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 150,
@@ -3892,7 +3892,7 @@
             "2025-05-25",
             "OURO PRETO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 151,
@@ -3917,7 +3917,7 @@
             "2025-05-25",
             "BELO HORIZONTE",
             "2387,47",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 152,
@@ -3942,7 +3942,7 @@
             "2025-05-25",
             "BOCAIÚVA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 153,
@@ -3967,7 +3967,7 @@
             "2025-05-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2809,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 154,
@@ -3992,7 +3992,7 @@
             "2025-05-25",
             "JEQUITINHONHA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 155,
@@ -4017,7 +4017,7 @@
             "2025-05-25",
             "ITAJUBÁ",
             "1618,84",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 156,
@@ -4042,7 +4042,7 @@
             "2025-05-25",
             "JANAÚBA",
             "1579,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 157,
@@ -4067,7 +4067,7 @@
             "2025-05-25",
             "DIAMANTINA",
             "1659,33",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 158,
@@ -4092,7 +4092,7 @@
             "2025-05-25",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 159,
@@ -4117,7 +4117,7 @@
             "2025-05-25",
             "MONTES CLAROS",
             "2735,92",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 160,
@@ -4142,7 +4142,7 @@
             "2025-05-25",
             "MONTES CLAROS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 161,
@@ -4167,7 +4167,7 @@
             "2025-05-25",
             "UBÁ",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 162,
@@ -4192,7 +4192,7 @@
             "2025-05-25",
             "FELIXLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 163,
@@ -4217,7 +4217,7 @@
             "2025-05-25",
             "ESMERALDAS",
             "1173,26",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 164,
@@ -4242,7 +4242,7 @@
             "2025-05-25",
             "MACHADO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 165,
@@ -4267,7 +4267,7 @@
             "2025-05-25",
             "ITAJUBÁ",
             "1786,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 166,
@@ -4292,7 +4292,7 @@
             "2025-05-25",
             "JANUÁRIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 167,
@@ -4317,7 +4317,7 @@
             "2025-05-25",
             "BELO HORIZONTE",
             "1980,33",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 168,
@@ -4342,7 +4342,7 @@
             "2025-05-25",
             "CORONEL FABRICIANO",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 169,
@@ -4567,7 +4567,7 @@
             "2025-06-25",
             "VARGINHA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 178,
@@ -4592,7 +4592,7 @@
             "2025-06-25",
             "MONTES CLAROS",
             "2049,3",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 179,
@@ -4617,7 +4617,7 @@
             "2025-06-25",
             "BOM SUCESSO",
             "1618,84",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 180,
@@ -4642,7 +4642,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 181,
@@ -4667,7 +4667,7 @@
             "2025-06-25",
             "JEQUITINHONHA",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 182,
@@ -4692,7 +4692,7 @@
             "2025-06-25",
             "JEQUITINHONHA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 183,
@@ -4717,7 +4717,7 @@
             "2025-06-25",
             "ARAXÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 184,
@@ -4742,7 +4742,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "1934,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 185,
@@ -4767,7 +4767,7 @@
             "2025-06-25",
             "GOVERNADOR VALADARES",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 186,
@@ -4792,7 +4792,7 @@
             "2025-06-25",
             "SALINAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 187,
@@ -4817,7 +4817,7 @@
             "2025-06-25",
             "MANTENA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 188,
@@ -4842,7 +4842,7 @@
             "2025-06-25",
             "VARGINHA",
             "1436,87",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 189,
@@ -4867,7 +4867,7 @@
             "2025-06-25",
             "UBERLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 190,
@@ -4892,7 +4892,7 @@
             "2025-06-25",
             "JOÃO MONLEVADE",
             "1200,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 191,
@@ -4917,7 +4917,7 @@
             "2025-06-25",
             "COQUEIRAL",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 192,
@@ -4942,7 +4942,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2497,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 193,
@@ -4967,7 +4967,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 194,
@@ -4992,7 +4992,7 @@
             "2025-06-25",
             "DIVINÓPOLIS",
             "2809,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 195,
@@ -5017,7 +5017,7 @@
             "2025-06-25",
             "CONTAGEM",
             "1743,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 196,
@@ -5042,7 +5042,7 @@
             "2025-06-25",
             "BOM DESPACHO",
             "1725,46",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 197,
@@ -5067,7 +5067,7 @@
             "2025-06-25",
             "BONITO DE MINAS",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 198,
@@ -5092,7 +5092,7 @@
             "2025-06-25",
             "UBERLÂNDIA",
             "1100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 199,
@@ -5117,7 +5117,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 200,
@@ -5142,7 +5142,7 @@
             "2025-06-25",
             "JANAÚBA",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 201,
@@ -5167,7 +5167,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 202,
@@ -5192,7 +5192,7 @@
             "2025-06-25",
             "TEÓFILO OTONI",
             "1200,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 203,
@@ -5217,7 +5217,7 @@
             "2025-06-25",
             "ITAJUBÁ",
             "1831,57",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 204,
@@ -5242,7 +5242,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 205,
@@ -5267,7 +5267,7 @@
             "2025-06-25",
             "BOM DESPACHO",
             "250,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 206,
@@ -5292,7 +5292,7 @@
             "2025-06-25",
             "MURIAÉ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 207,
@@ -5317,7 +5317,7 @@
             "2025-06-25",
             "BOM DESPACHO",
             "1173,26",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 208,
@@ -5342,7 +5342,7 @@
             "2025-06-25",
             "DIVINÓPOLIS",
             "2213,73",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 209,
@@ -5367,7 +5367,7 @@
             "2025-06-25",
             "BELO ORIENTE",
             "1743,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 210,
@@ -5392,7 +5392,7 @@
             "2025-06-25",
             "DIVINÓPOLIS",
             "2394,25",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 211,
@@ -5417,7 +5417,7 @@
             "2025-06-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 212,
@@ -5442,7 +5442,7 @@
             "2025-06-25",
             "BONFIM",
             "1400,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 213,
@@ -5467,7 +5467,7 @@
             "2025-06-25",
             "UBÁ",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 214,
@@ -5492,7 +5492,7 @@
             "2025-06-25",
             "UBÁ",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 215,
@@ -5517,7 +5517,7 @@
             "2025-06-25",
             "FORMIGA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 216,
@@ -5542,7 +5542,7 @@
             "2025-06-25",
             "GOVERNADOR VALADARES",
             "2343,6",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 217,
@@ -5717,7 +5717,7 @@
             "2025-07-25",
             "PRATA",
             "1250,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 224,
@@ -5742,7 +5742,7 @@
             "2025-07-25",
             "CATAGUASES",
             "1500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 225,
@@ -5767,7 +5767,7 @@
             "2025-07-25",
             "BETIM",
             "1250,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 226,
@@ -5792,7 +5792,7 @@
             "2025-07-25",
             "ESPINOSA",
             "1831,57",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 227,
@@ -5817,7 +5817,7 @@
             "2025-07-25",
             "PIEDADE DO RIO GRANDE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 228,
@@ -5842,7 +5842,7 @@
             "2025-07-25",
             "BRASÍLIA DE MINAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 229,
@@ -5867,7 +5867,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 230,
@@ -5892,7 +5892,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "2129,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 231,
@@ -5917,7 +5917,7 @@
             "2025-07-25",
             "ITAMARANDIBA",
             "2384,65",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 232,
@@ -5942,7 +5942,7 @@
             "2025-07-25",
             "PARÁ DE MINAS",
             "1924,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 233,
@@ -5967,7 +5967,7 @@
             "2025-07-25",
             "BRASÍLIA DE MINAS",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 234,
@@ -5992,7 +5992,7 @@
             "2025-07-25",
             "BOCAIÚVA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 235,
@@ -6017,7 +6017,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "2076,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 236,
@@ -6042,7 +6042,7 @@
             "2025-07-25",
             "UBERLÂNDIA",
             "1100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 237,
@@ -6067,7 +6067,7 @@
             "2025-07-25",
             "JUATUBA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 238,
@@ -6092,7 +6092,7 @@
             "2025-07-25",
             "FORMIGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 239,
@@ -6117,7 +6117,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "2015,23",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 240,
@@ -6142,7 +6142,7 @@
             "2025-07-25",
             "LAGOA DOURADA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 241,
@@ -6167,7 +6167,7 @@
             "2025-07-25",
             "JANUÁRIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 242,
@@ -6192,7 +6192,7 @@
             "2025-07-25",
             "PORTEIRINHA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 243,
@@ -6217,7 +6217,7 @@
             "2025-07-25",
             "SÃO SEBASTIÃO DO PARAÍSO",
             "2454,05",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 244,
@@ -6242,7 +6242,7 @@
             "2025-07-25",
             "CONCEIÇÃO DO PARÁ",
             "1450,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 245,
@@ -6267,7 +6267,7 @@
             "2025-07-25",
             "ITAJUBÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 246,
@@ -6292,7 +6292,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 247,
@@ -6317,7 +6317,7 @@
             "2025-07-25",
             "BRASILÂNDIA DE MINAS",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 248,
@@ -6342,7 +6342,7 @@
             "2025-07-25",
             "SALINAS",
             "2838,66",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 249,
@@ -6367,7 +6367,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 250,
@@ -6392,7 +6392,7 @@
             "2025-07-25",
             "COROMANDEL",
             "1995,18",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 251,
@@ -6417,7 +6417,7 @@
             "2025-07-25",
             "DIVINO DAS LARANJEIRAS",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 252,
@@ -6442,7 +6442,7 @@
             "2025-07-25",
             "POMPÉU",
             "2640,44",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 253,
@@ -6467,7 +6467,7 @@
             "2025-07-25",
             "DIVINÓPOLIS",
             "2809,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 254,
@@ -6492,7 +6492,7 @@
             "2025-07-25",
             "SANTA LUZIA",
             "1965,61",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 255,
@@ -6517,7 +6517,7 @@
             "2025-07-25",
             "BETIM",
             "1600,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 256,
@@ -6542,7 +6542,7 @@
             "2025-07-25",
             "NOVO CRUZEIRO",
             "1582,32",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 257,
@@ -6567,7 +6567,7 @@
             "2025-07-25",
             "MACHADO",
             "1540,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 258,
@@ -6592,7 +6592,7 @@
             "2025-07-25",
             "IBIRITÉ",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 259,
@@ -6617,7 +6617,7 @@
             "2025-07-25",
             "JOÃO MONLEVADE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 260,
@@ -6642,7 +6642,7 @@
             "2025-07-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "1947,43",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 261,
@@ -6667,7 +6667,7 @@
             "2025-07-25",
             "OURO PRETO",
             "2102,28",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 262,
@@ -6692,7 +6692,7 @@
             "2025-07-25",
             "MONTE AZUL",
             "2125,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 263,
@@ -6717,7 +6717,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "1707,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 264,
@@ -6742,7 +6742,7 @@
             "2025-07-25",
             "OURO FINO",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 265,
@@ -6767,7 +6767,7 @@
             "2025-07-25",
             "PIRAJUBA",
             "1927,91",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 266,
@@ -6792,7 +6792,7 @@
             "2025-07-25",
             "JANAÚBA",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 267,
@@ -6817,7 +6817,7 @@
             "2025-07-25",
             "JANAÚBA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 268,
@@ -6842,7 +6842,7 @@
             "2025-07-25",
             "GOVERNADOR VALADARES",
             "2520,19",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 269,
@@ -6867,7 +6867,7 @@
             "2025-07-25",
             "POÇOS DE CALDAS",
             "1646,12",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 270,
@@ -6892,7 +6892,7 @@
             "2025-07-25",
             "FORMIGA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 271,
@@ -6917,7 +6917,7 @@
             "2025-07-25",
             "BELO HORIZONTE",
             "2278,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 272,
@@ -7142,7 +7142,7 @@
             "2025-08-25",
             "ALVINÓPOLIS",
             "2382,95",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 281,
@@ -7167,7 +7167,7 @@
             "2025-08-25",
             "ARAXÁ",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 282,
@@ -7192,7 +7192,7 @@
             "2025-08-25",
             "ARAXÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 283,
@@ -7217,7 +7217,7 @@
             "2025-08-25",
             "ARAXÁ",
             "1850,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 284,
@@ -7242,7 +7242,7 @@
             "2025-08-25",
             "ARAXÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 285,
@@ -7267,7 +7267,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1683,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 286,
@@ -7292,7 +7292,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 287,
@@ -7317,7 +7317,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "744,7",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 288,
@@ -7342,7 +7342,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 289,
@@ -7367,7 +7367,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1147,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 290,
@@ -7392,7 +7392,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1723,04",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 291,
@@ -7417,7 +7417,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "2254,23",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 292,
@@ -7442,7 +7442,7 @@
             "2025-08-25",
             "BELO HORIZONTE",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 293,
@@ -7467,7 +7467,7 @@
             "2025-08-25",
             "BOM SUCESSO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 294,
@@ -7492,7 +7492,7 @@
             "2025-08-25",
             "BORDA DA MATA",
             "1529,17",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 295,
@@ -7517,7 +7517,7 @@
             "2025-08-25",
             "BRASÍLIA DE MINAS",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 296,
@@ -7542,7 +7542,7 @@
             "2025-08-25",
             "BRUMADINHO",
             "1650,82",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 297,
@@ -7567,7 +7567,7 @@
             "2025-08-25",
             "CENTRALINA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 298,
@@ -7592,7 +7592,7 @@
             "2025-08-25",
             "CENTRALINA",
             "2076,16",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 299,
@@ -7617,7 +7617,7 @@
             "2025-08-25",
             "CORONEL FABRICIANO",
             "2589,84",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 300,
@@ -7642,7 +7642,7 @@
             "2025-08-25",
             "CURRAL DE DENTRO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 301,
@@ -7667,7 +7667,7 @@
             "2025-08-25",
             "DIAMANTINA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 302,
@@ -7692,7 +7692,7 @@
             "2025-08-25",
             "DIVINO",
             "1927,91",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 303,
@@ -7717,7 +7717,7 @@
             "2025-08-25",
             "DIVINÓPOLIS",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 304,
@@ -7742,7 +7742,7 @@
             "2025-08-25",
             "FRUTAL",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 305,
@@ -7767,7 +7767,7 @@
             "2025-08-25",
             "GOVERNADOR VALADARES",
             "1483,08",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 306,
@@ -7792,7 +7792,7 @@
             "2025-08-25",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 307,
@@ -7817,7 +7817,7 @@
             "2025-08-25",
             "ITAIPÉ",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 308,
@@ -7842,7 +7842,7 @@
             "2025-08-25",
             "ITAJUBÁ",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 309,
@@ -7867,7 +7867,7 @@
             "2025-08-25",
             "ITAÚNA",
             "265,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 310,
@@ -7892,7 +7892,7 @@
             "2025-08-25",
             "JANAÚBA",
             "2200,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 311,
@@ -7917,7 +7917,7 @@
             "2025-08-25",
             "JECEABA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 312,
@@ -7942,7 +7942,7 @@
             "2025-08-25",
             "JUATUBA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 313,
@@ -7967,7 +7967,7 @@
             "2025-08-25",
             "JUIZ DE FORA",
             "1707,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 314,
@@ -7992,7 +7992,7 @@
             "2025-08-25",
             "MONTES CLAROS",
             "1880,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 315,
@@ -8017,7 +8017,7 @@
             "2025-08-25",
             "MONTES CLAROS",
             "1700,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 316,
@@ -8042,7 +8042,7 @@
             "2025-08-25",
             "MONTES CLAROS",
             "2178,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 317,
@@ -8067,7 +8067,7 @@
             "2025-08-25",
             "PALMÓPOLIS",
             "2179,97",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 318,
@@ -8092,7 +8092,7 @@
             "2025-08-25",
             "PARÁ DE MINAS",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 319,
@@ -8117,7 +8117,7 @@
             "2025-08-25",
             "PEDRA AZUL",
             "1030,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 320,
@@ -8142,7 +8142,7 @@
             "2025-08-25",
             "PEDRA DO INDAIÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 321,
@@ -8167,7 +8167,7 @@
             "2025-08-25",
             "PONTE NOVA",
             "2138,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 322,
@@ -8192,7 +8192,7 @@
             "2025-08-25",
             "SÃO JOÃO DEL REI",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 323,
@@ -8217,7 +8217,7 @@
             "2025-08-25",
             "SÃO JOÃO DEL REI",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 324,
@@ -8242,7 +8242,7 @@
             "2025-08-25",
             "SÃO JOÃO NEPOMUCENO",
             "1466,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 325,
@@ -8267,7 +8267,7 @@
             "2025-08-25",
             "SÃO SEBASTIÃO DO MARANHÃO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 326,
@@ -8292,7 +8292,7 @@
             "2025-08-25",
             "TAPIRA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 327,
@@ -8317,7 +8317,7 @@
             "2025-08-25",
             "UBERABA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 328,
@@ -8342,7 +8342,7 @@
             "2025-08-25",
             "UBERLÂNDIA",
             "1100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 329,
@@ -8367,7 +8367,7 @@
             "2025-08-25",
             "UBERLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 330,
@@ -8392,7 +8392,7 @@
             "2025-08-25",
             "VARGINHA",
             "2640,44",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 331,
@@ -8417,7 +8417,7 @@
             "2025-08-25",
             "VISCONDE DO RIO BRANCO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 332,
@@ -8767,7 +8767,7 @@
             "2025-09-25",
             "UBERLÂNDIA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 346,
@@ -8792,7 +8792,7 @@
             "2025-09-25",
             "MONTES CLAROS",
             "1809,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 347,
@@ -8817,7 +8817,7 @@
             "2025-09-25",
             "LEOPOLDINA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 348,
@@ -8842,7 +8842,7 @@
             "2025-09-25",
             "CENTRALINA",
             "1880,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 349,
@@ -8867,7 +8867,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "1653,07",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 350,
@@ -8892,7 +8892,7 @@
             "2025-09-25",
             "ITANHOMI",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 351,
@@ -8917,7 +8917,7 @@
             "2025-09-25",
             "CALDAS",
             "1924,29",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 352,
@@ -8942,7 +8942,7 @@
             "2025-09-25",
             "PONTE NOVA",
             "1937,41",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 353,
@@ -8967,7 +8967,7 @@
             "2025-09-25",
             "NOVA ERA",
             "2709,82",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 354,
@@ -8992,7 +8992,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "2157,67",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 355,
@@ -9017,7 +9017,7 @@
             "2025-09-25",
             "ENGENHEIRO NAVARRO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 356,
@@ -9042,7 +9042,7 @@
             "2025-09-25",
             "PATOS DE MINAS",
             "1750,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 357,
@@ -9067,7 +9067,7 @@
             "2025-09-25",
             "OLIVEIRA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 358,
@@ -9092,7 +9092,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 359,
@@ -9117,7 +9117,7 @@
             "2025-09-25",
             "OLIVEIRA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 360,
@@ -9142,7 +9142,7 @@
             "2025-09-25",
             "UBERLÂNDIA",
             "1100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 361,
@@ -9167,7 +9167,7 @@
             "2025-09-25",
             "MANGA",
             "1746,61",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 362,
@@ -9192,7 +9192,7 @@
             "2025-09-25",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 363,
@@ -9217,7 +9217,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "2029,43",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 364,
@@ -9242,7 +9242,7 @@
             "2025-09-25",
             "ITAÚNA",
             "725,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 365,
@@ -9267,7 +9267,7 @@
             "2025-09-25",
             "SALINAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 366,
@@ -9292,7 +9292,7 @@
             "2025-09-25",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 367,
@@ -9317,7 +9317,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 368,
@@ -9342,7 +9342,7 @@
             "2025-09-25",
             "SALTO DA DIVISA",
             "2000,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 369,
@@ -9367,7 +9367,7 @@
             "2025-09-25",
             "VISCONDE DO RIO BRANCO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 370,
@@ -9392,7 +9392,7 @@
             "2025-09-25",
             "SALINAS",
             "1790,27",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 371,
@@ -9417,7 +9417,7 @@
             "2025-09-25",
             "RIO DO PRADO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 372,
@@ -9442,7 +9442,7 @@
             "2025-09-25",
             "CONTAGEM",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 373,
@@ -9467,7 +9467,7 @@
             "2025-09-25",
             "RODEIRO",
             "2068,41",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 374,
@@ -9492,7 +9492,7 @@
             "2025-09-25",
             "ARAXÁ",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 375,
@@ -9517,7 +9517,7 @@
             "2025-09-25",
             "DORES DO INDAIÁ",
             "2379,6",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 376,
@@ -9542,7 +9542,7 @@
             "2025-09-25",
             "SALINAS",
             "2838,66",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 377,
@@ -9567,7 +9567,7 @@
             "2025-09-25",
             "CARMO DA MATA",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 378,
@@ -9592,7 +9592,7 @@
             "2025-09-25",
             "NAZARENO",
             "2454,1",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 379,
@@ -9617,7 +9617,7 @@
             "2025-09-25",
             "PONTE NOVA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 380,
@@ -9642,7 +9642,7 @@
             "2025-09-25",
             "CONTAGEM",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 381,
@@ -9667,7 +9667,7 @@
             "2025-09-25",
             "VÁRZEA DA PALMA",
             "2292,63",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 382,
@@ -9692,7 +9692,7 @@
             "2025-09-25",
             "VÁRZEA DA PALMA",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 383,
@@ -9717,7 +9717,7 @@
             "2025-09-25",
             "PEDRO LEOPOLDO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 384,
@@ -9742,7 +9742,7 @@
             "2025-09-25",
             "ARCOS",
             "1900,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 385,
@@ -9767,7 +9767,7 @@
             "2025-09-25",
             "BRASÍLIA DE MINAS",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 386,
@@ -9792,7 +9792,7 @@
             "2025-09-25",
             "MONTES CLAROS",
             "2076,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 387,
@@ -9817,7 +9817,7 @@
             "2025-09-25",
             "SÃO SEBASTIÃO DO PARAÍSO",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 388,
@@ -9842,7 +9842,7 @@
             "2025-09-25",
             "CHAPADA GAÚCHA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 389,
@@ -9867,7 +9867,7 @@
             "2025-09-25",
             "ESMERALDAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 390,
@@ -9892,7 +9892,7 @@
             "2025-09-25",
             "BELO HORIZONTE",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 391,
@@ -9917,7 +9917,7 @@
             "2025-09-25",
             "OURO PRETO",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 392,
@@ -9942,7 +9942,7 @@
             "2025-09-25",
             "GUIMARÂNIA",
             "1700,81",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 393,
@@ -9967,7 +9967,7 @@
             "2025-09-25",
             "CAMPO BELO",
             "2500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 394,
@@ -9992,7 +9992,7 @@
             "2025-09-25",
             "CONTAGEM",
             "1302,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 395,
@@ -10217,7 +10217,7 @@
             "2025-10-25",
             "BRASÍLIA DE MINAS",
             "1626,43",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 404,
@@ -10242,7 +10242,7 @@
             "2025-10-25",
             "LUZ",
             "2844,2",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 405,
@@ -10267,7 +10267,7 @@
             "2025-10-25",
             "PARACATU",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 406,
@@ -10292,7 +10292,7 @@
             "2025-10-25",
             "VESPASIANO",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 407,
@@ -10317,7 +10317,7 @@
             "2025-10-25",
             "JEQUITINHONHA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 408,
@@ -10342,7 +10342,7 @@
             "2025-10-25",
             "MONTES CLAROS",
             "1542,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 409,
@@ -10367,7 +10367,7 @@
             "2025-10-25",
             "IPATINGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 410,
@@ -10392,7 +10392,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "1662,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 411,
@@ -10417,7 +10417,7 @@
             "2025-10-25",
             "CONSELHEIRO LAFAIETE",
             "1790,27",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 412,
@@ -10442,7 +10442,7 @@
             "2025-10-25",
             "PATOS DE MINAS",
             "2004,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 413,
@@ -10467,7 +10467,7 @@
             "2025-10-25",
             "CENTRAL DE MINAS",
             "2130,84",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 414,
@@ -10492,7 +10492,7 @@
             "2025-10-25",
             "JUIZ DE FORA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 415,
@@ -10517,7 +10517,7 @@
             "2025-10-25",
             "ARAXÁ",
             "2691,28",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 416,
@@ -10542,7 +10542,7 @@
             "2025-10-25",
             "UBERLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 417,
@@ -10567,7 +10567,7 @@
             "2025-10-25",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 418,
@@ -10592,7 +10592,7 @@
             "2025-10-25",
             "JEQUITINHONHA",
             "2701,81",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 419,
@@ -10617,7 +10617,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "917,95",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 420,
@@ -10642,7 +10642,7 @@
             "2025-10-25",
             "TEÓFILO OTONI",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 421,
@@ -10667,7 +10667,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "1703,99",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 422,
@@ -10692,7 +10692,7 @@
             "2025-10-25",
             "LIMA DUARTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 423,
@@ -10717,7 +10717,7 @@
             "2025-10-25",
             "UBERLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 424,
@@ -10742,7 +10742,7 @@
             "2025-10-25",
             "UBÁ",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 425,
@@ -10767,7 +10767,7 @@
             "2025-10-25",
             "CONTAGEM",
             "2812,11",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 426,
@@ -10792,7 +10792,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 427,
@@ -10817,7 +10817,7 @@
             "2025-10-25",
             "GUARARÁ",
             "2263,71",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 428,
@@ -10842,7 +10842,7 @@
             "2025-10-25",
             "JUIZ DE FORA",
             "1869,38",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 429,
@@ -10867,7 +10867,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "2185,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 430,
@@ -10892,7 +10892,7 @@
             "2025-10-25",
             "BOM DESPACHO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 431,
@@ -10917,7 +10917,7 @@
             "2025-10-25",
             "OLIVEIRA",
             "1718,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 432,
@@ -10942,7 +10942,7 @@
             "2025-10-25",
             "ALVINÓPOLIS",
             "1669,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 433,
@@ -10967,7 +10967,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "2235,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 434,
@@ -10992,7 +10992,7 @@
             "2025-10-25",
             "LEOPOLDINA",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 435,
@@ -11017,7 +11017,7 @@
             "2025-10-25",
             "BELO HORIZONTE",
             "2761,17",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 436,
@@ -11042,7 +11042,7 @@
             "2025-10-25",
             "LAVRAS",
             "1746,61",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 437,
@@ -11067,7 +11067,7 @@
             "2025-10-25",
             "MONTE AZUL",
             "1935,45",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 438,
@@ -11092,7 +11092,7 @@
             "2025-10-25",
             "UBERABA",
             "1703,99",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 439,
@@ -11117,7 +11117,7 @@
             "2025-10-25",
             "ARAXÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 440,
@@ -11292,7 +11292,7 @@
             "2025-11-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2458,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 447,
@@ -11317,7 +11317,7 @@
             "2025-11-25",
             "BELO HORIZONTE",
             "2555,99",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 448,
@@ -11342,7 +11342,7 @@
             "2025-11-25",
             "SANTA LUZIA",
             "1850,06",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 449,
@@ -11367,7 +11367,7 @@
             "2025-11-25",
             "SETE LAGOAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 450,
@@ -11392,7 +11392,7 @@
             "2025-11-25",
             "BRASÍLIA DE MINAS",
             "1835,01",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 451,
@@ -11417,7 +11417,7 @@
             "2025-11-25",
             "ÁGUAS FORMOSAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 452,
@@ -11442,7 +11442,7 @@
             "2025-11-25",
             "NACIP RAYDAN",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 453,
@@ -11467,7 +11467,7 @@
             "2025-11-25",
             "BELO HORIZONTE",
             "2128,1",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 454,
@@ -11492,7 +11492,7 @@
             "2025-11-25",
             "BELO HORIZONTE",
             "933,9",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 455,
@@ -11517,7 +11517,7 @@
             "2025-11-25",
             "ENGENHEIRO CALDAS",
             "1835,01",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 456,
@@ -11542,7 +11542,7 @@
             "2025-11-25",
             "MONTES CLAROS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 457,
@@ -11567,7 +11567,7 @@
             "2025-11-25",
             "CENTRALINA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 458,
@@ -11592,7 +11592,7 @@
             "2025-11-25",
             "NACIP RAYDAN",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 459,
@@ -11617,7 +11617,7 @@
             "2025-11-25",
             "SÃO JOÃO DO MANTENINHA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 460,
@@ -11642,7 +11642,7 @@
             "2025-11-25",
             "UBERABA",
             "1802,17",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 461,
@@ -11667,7 +11667,7 @@
             "2025-11-25",
             "PATOS DE MINAS",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 462,
@@ -11692,7 +11692,7 @@
             "2025-11-25",
             "TEÓFILO OTONI",
             "2290,01",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 463,
@@ -11717,7 +11717,7 @@
             "2025-11-25",
             "GOVERNADOR VALADARES",
             "1790,27",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 464,
@@ -11742,7 +11742,7 @@
             "2025-11-25",
             "VÁRZEA DA PALMA",
             "1529,58",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 465,
@@ -11767,7 +11767,7 @@
             "2025-11-25",
             "GOVERNADOR VALADARES",
             "2346,63",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 466,
@@ -11792,7 +11792,7 @@
             "2025-11-25",
             "UBERLÂNDIA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 467,
@@ -11817,7 +11817,7 @@
             "2025-11-25",
             "DIVINÓPOLIS",
             "1908,15",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 468,
@@ -11842,7 +11842,7 @@
             "2025-11-25",
             "CONGONHAS",
             "1927,91",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 469,
@@ -11867,7 +11867,7 @@
             "2025-11-25",
             "ARAXÁ",
             "2378,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 470,
@@ -11892,7 +11892,7 @@
             "2025-11-25",
             "BOA ESPERANÇA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 471,
@@ -11917,7 +11917,7 @@
             "2025-11-25",
             "CORONEL FABRICIANO",
             "1400,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 472,
@@ -11942,7 +11942,7 @@
             "2025-11-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2502,85",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 473,
@@ -11967,7 +11967,7 @@
             "2025-11-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 474,
@@ -11992,7 +11992,7 @@
             "2025-11-25",
             "CONTAGEM",
             "1880,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 475,
@@ -12017,7 +12017,7 @@
             "2025-11-25",
             "GOVERNADOR VALADARES",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 476,
@@ -12042,7 +12042,7 @@
             "2025-11-25",
             "OLIVEIRA",
             "2211,94",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 477,
@@ -12067,7 +12067,7 @@
             "2025-11-25",
             "ITABIRINHA",
             "1070,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 478,
@@ -12092,7 +12092,7 @@
             "2025-11-25",
             "MONTES CLAROS",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 479,
@@ -12117,7 +12117,7 @@
             "2025-11-25",
             "TEÓFILO OTONI",
             "1576,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 480,
@@ -12142,7 +12142,7 @@
             "2025-11-25",
             "RAUL SOARES",
             "1877,36",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 481,
@@ -12167,7 +12167,7 @@
             "2025-11-25",
             "GONZAGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 482,
@@ -12192,7 +12192,7 @@
             "2025-11-25",
             "ITAPECERICA",
             "2348,55",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 483,
@@ -12217,7 +12217,7 @@
             "2025-11-25",
             "CONTAGEM",
             "2068,41",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 484,
@@ -12242,7 +12242,7 @@
             "2025-11-25",
             "TIMÓTEO",
             "1976,11",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 485,
@@ -12267,7 +12267,7 @@
             "2025-11-25",
             "PORTEIRINHA",
             "2184,19",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 486,
@@ -12292,7 +12292,7 @@
             "2025-11-25",
             "JANUÁRIA",
             "1567,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 487,
@@ -12317,7 +12317,7 @@
             "2025-11-25",
             "ITAÚNA",
             "1890,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 488,
@@ -12342,7 +12342,7 @@
             "2025-11-25",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 489,
@@ -12367,7 +12367,7 @@
             "2025-11-25",
             "ALMENARA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 490,
@@ -12392,7 +12392,7 @@
             "2025-11-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 491,
@@ -12567,7 +12567,7 @@
             "2025-12-25",
             "PERDIGÃO",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 498,
@@ -12592,7 +12592,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "2796,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 499,
@@ -12617,7 +12617,7 @@
             "2025-12-25",
             "MEDINA",
             "2774,83",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 500,
@@ -12642,7 +12642,7 @@
             "2025-12-25",
             "ARANTINA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 501,
@@ -12667,7 +12667,7 @@
             "2025-12-25",
             "RIO PARDO DE MINAS",
             "2724,67",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 502,
@@ -12692,7 +12692,7 @@
             "2025-12-25",
             "FERROS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 503,
@@ -12717,7 +12717,7 @@
             "2025-12-25",
             "ALMENARA",
             "2520,19",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 504,
@@ -12742,7 +12742,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "2065,54",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 505,
@@ -12767,7 +12767,7 @@
             "2025-12-25",
             "CRISTIANO OTONI",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 506,
@@ -12792,7 +12792,7 @@
             "2025-12-25",
             "ALMENARA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 507,
@@ -12817,7 +12817,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 508,
@@ -12842,7 +12842,7 @@
             "2025-12-25",
             "MONTES CLAROS",
             "1582,32",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 509,
@@ -12867,7 +12867,7 @@
             "2025-12-25",
             "IPABA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 510,
@@ -12892,7 +12892,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "1742,17",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 511,
@@ -12917,7 +12917,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 512,
@@ -12942,7 +12942,7 @@
             "2025-12-25",
             "SETE LAGOAS",
             "1280,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 513,
@@ -12967,7 +12967,7 @@
             "2025-12-25",
             "CONTAGEM",
             "2299,66",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 514,
@@ -12992,7 +12992,7 @@
             "2025-12-25",
             "BOM SUCESSO",
             "1551,57",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 515,
@@ -13017,7 +13017,7 @@
             "2025-12-25",
             "ITAÚNA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 516,
@@ -13042,7 +13042,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "2409,25",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 517,
@@ -13067,7 +13067,7 @@
             "2025-12-25",
             "TEÓFILO OTONI",
             "2100,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 518,
@@ -13092,7 +13092,7 @@
             "2025-12-25",
             "JUIZ DE FORA",
             "2505,38",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 519,
@@ -13117,7 +13117,7 @@
             "2025-12-25",
             "RIBEIRÃO DAS NEVES",
             "2330,63",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 520,
@@ -13142,7 +13142,7 @@
             "2025-12-25",
             "BAEPENDI",
             "2679,14",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 521,
@@ -13167,7 +13167,7 @@
             "2025-12-25",
             "GUIMARÂNIA",
             "1500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 522,
@@ -13192,7 +13192,7 @@
             "2025-12-25",
             "PERDÕES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 523,
@@ -13217,7 +13217,7 @@
             "2025-12-25",
             "IBIRITÉ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 524,
@@ -13242,7 +13242,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 525,
@@ -13267,7 +13267,7 @@
             "2025-12-25",
             "JUIZ DE FORA",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 526,
@@ -13292,7 +13292,7 @@
             "2025-12-25",
             "PALMA",
             "1412,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 527,
@@ -13317,7 +13317,7 @@
             "2025-12-25",
             "CORONEL FABRICIANO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 528,
@@ -13342,7 +13342,7 @@
             "2025-12-25",
             "LAVRAS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 529,
@@ -13367,7 +13367,7 @@
             "2025-12-25",
             "UBÁ",
             "1110,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 530,
@@ -13392,7 +13392,7 @@
             "2025-12-25",
             "PIUMHI",
             "1662,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 531,
@@ -13417,7 +13417,7 @@
             "2025-12-25",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 532,
@@ -13442,7 +13442,7 @@
             "2025-12-25",
             "CONTAGEM",
             "1800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 533,
@@ -13467,7 +13467,7 @@
             "2025-12-25",
             "BELO HORIZONTE",
             "1808,45",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 534,
@@ -13492,7 +13492,7 @@
             "2025-12-25",
             "GUARANI",
             "1800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 535,
@@ -13517,7 +13517,7 @@
             "2025-12-25",
             "CORONEL FABRICIANO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 536,
@@ -13792,7 +13792,7 @@
             "2026-02-26",
             "JUIZ DE FORA",
             "2004,75",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 547,
@@ -13817,7 +13817,7 @@
             "2026-02-26",
             "CONTAGEM",
             "1480,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 548,
@@ -13842,7 +13842,7 @@
             "2026-02-26",
             "POUSO ALEGRE",
             "2583,13",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 549,
@@ -13867,7 +13867,7 @@
             "2026-02-26",
             "MONTES CLAROS",
             "1568,98",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 550,
@@ -13892,7 +13892,7 @@
             "2026-02-26",
             "MARIANA",
             "1662,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 551,
@@ -13917,7 +13917,7 @@
             "2026-02-26",
             "PIUMHI",
             "1789,45",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 552,
@@ -13942,7 +13942,7 @@
             "2026-02-26",
             "UBERLÂNDIA",
             "1450,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 553,
@@ -13967,7 +13967,7 @@
             "2026-02-26",
             "UBÁ",
             "2017,95",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 554,
@@ -13992,7 +13992,7 @@
             "2026-02-26",
             "MONTE CARMELO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 555,
@@ -14017,7 +14017,7 @@
             "2026-02-26",
             "GOVERNADOR VALADARES",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 556,
@@ -14042,7 +14042,7 @@
             "2026-02-26",
             "LAGOA SANTA",
             "2216,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 557,
@@ -14067,7 +14067,7 @@
             "2026-02-26",
             "SÃO JOÃO NEPOMUCENO",
             "2158,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 558,
@@ -14092,7 +14092,7 @@
             "2026-02-26",
             "CONTAGEM",
             "1927,91",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 559,
@@ -14117,7 +14117,7 @@
             "2026-02-26",
             "MADRE DE DEUS DE MINAS",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 560,
@@ -14142,7 +14142,7 @@
             "2026-02-26",
             "IBIRITÉ",
             "2808,31",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 561,
@@ -14167,7 +14167,7 @@
             "2026-02-26",
             "FORMIGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 562,
@@ -14192,7 +14192,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "2006,28",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 563,
@@ -14217,7 +14217,7 @@
             "2026-02-26",
             "CONTAGEM",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 564,
@@ -14242,7 +14242,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "2257,06",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 565,
@@ -14267,7 +14267,7 @@
             "2026-02-26",
             "POTÉ",
             "1000,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 566,
@@ -14292,7 +14292,7 @@
             "2026-02-26",
             "CAMPOS ALTOS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 567,
@@ -14317,7 +14317,7 @@
             "2026-02-26",
             "NEPOMUCENO",
             "2268,18",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 568,
@@ -14342,7 +14342,7 @@
             "2026-02-26",
             "JUIZ DE FORA",
             "2088,42",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 569,
@@ -14367,7 +14367,7 @@
             "2026-02-26",
             "CAPINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 570,
@@ -14392,7 +14392,7 @@
             "2026-02-26",
             "PATROCÍNIO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 571,
@@ -14417,7 +14417,7 @@
             "2026-02-26",
             "TEÓFILO OTONI",
             "1746,61",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 572,
@@ -14442,7 +14442,7 @@
             "2026-02-26",
             "MONTES CLAROS",
             "1543,72",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 573,
@@ -14467,7 +14467,7 @@
             "2026-02-26",
             "JOÃO PINHEIRO",
             "1976,11",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 574,
@@ -14492,7 +14492,7 @@
             "2026-02-26",
             "CAJURI",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 575,
@@ -14517,7 +14517,7 @@
             "2026-02-26",
             "OLIVEIRA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 576,
@@ -14542,7 +14542,7 @@
             "2026-02-26",
             "UBÁ",
             "1110,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 577,
@@ -14567,7 +14567,7 @@
             "2026-02-26",
             "GOVERNADOR VALADARES",
             "1490,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 578,
@@ -14592,7 +14592,7 @@
             "2026-02-26",
             "ARAXÁ",
             "1240,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 579,
@@ -14617,7 +14617,7 @@
             "2026-02-26",
             "MARIANA",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 580,
@@ -14642,7 +14642,7 @@
             "2026-02-26",
             "RIO POMBA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 581,
@@ -14667,7 +14667,7 @@
             "2026-02-26",
             "IBIRITÉ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 582,
@@ -14692,7 +14692,7 @@
             "2026-02-26",
             "CONTAGEM",
             "2025,51",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 583,
@@ -14717,7 +14717,7 @@
             "2026-02-26",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 584,
@@ -14967,7 +14967,7 @@
             "2026-02-26",
             "TRÊS CORAÇÕES",
             "1980,33",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 594,
@@ -14992,7 +14992,7 @@
             "2026-02-26",
             "PIUMHI",
             "1243,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 595,
@@ -15017,7 +15017,7 @@
             "2026-02-26",
             "DIVINÓPOLIS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 596,
@@ -15042,7 +15042,7 @@
             "2026-02-26",
             "PARACATU",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 597,
@@ -15067,7 +15067,7 @@
             "2026-02-26",
             "ITAIPÉ",
             "1880,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 598,
@@ -15092,7 +15092,7 @@
             "2026-02-26",
             "SÃO FRANCISCO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 599,
@@ -15117,7 +15117,7 @@
             "2026-02-26",
             "PARACATU",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 600,
@@ -15142,7 +15142,7 @@
             "2026-02-26",
             "MONTES CLAROS",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 601,
@@ -15167,7 +15167,7 @@
             "2026-02-26",
             "ARAÇUAÍ",
             "2450,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 602,
@@ -15192,7 +15192,7 @@
             "2026-02-26",
             "UBÁ",
             "1590,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 603,
@@ -15217,7 +15217,7 @@
             "2026-02-26",
             "BRASÍLIA DE MINAS",
             "2370,24",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 604,
@@ -15242,7 +15242,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 605,
@@ -15267,7 +15267,7 @@
             "2026-02-26",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2249,08",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 606,
@@ -15292,7 +15292,7 @@
             "2026-02-26",
             "VAZANTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 607,
@@ -15317,7 +15317,7 @@
             "2026-02-26",
             "PEDRO LEOPOLDO",
             "1746,61",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 608,
@@ -15342,7 +15342,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 609,
@@ -15367,7 +15367,7 @@
             "2026-02-26",
             "ITAJUBÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 610,
@@ -15392,7 +15392,7 @@
             "2026-02-26",
             "FORMIGA",
             "1885,93",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 611,
@@ -15417,7 +15417,7 @@
             "2026-02-26",
             "CATAGUASES",
             "1500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 612,
@@ -15442,7 +15442,7 @@
             "2026-02-26",
             "SÃO FRANCISCO",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 613,
@@ -15467,7 +15467,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "1992,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 614,
@@ -15492,7 +15492,7 @@
             "2026-02-26",
             "OLIVEIRA",
             "2146,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 615,
@@ -15517,7 +15517,7 @@
             "2026-02-26",
             "NOVA LIMA",
             "1350,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 616,
@@ -15542,7 +15542,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "2952,35",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 617,
@@ -15567,7 +15567,7 @@
             "2026-02-26",
             "BELO HORIZONTE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 618,
@@ -15592,7 +15592,7 @@
             "2026-02-26",
             "MANGA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 619,
@@ -15617,7 +15617,7 @@
             "2026-02-26",
             "CAMPANHA",
             "1927,91",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 620,
@@ -15642,7 +15642,7 @@
             "2026-02-26",
             "DIVERSOS MUNICÍPIOS - ESTADUAL",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 621,
@@ -15667,7 +15667,7 @@
             "2026-02-26",
             "VAZANTE",
             "2158,89",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 622,
@@ -15692,7 +15692,7 @@
             "2026-02-26",
             "JEQUITINHONHA",
             "2838,66",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 623,
@@ -15717,7 +15717,7 @@
             "2026-02-26",
             "SERRA DOS AIMORÉS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 624,
@@ -15742,7 +15742,7 @@
             "2026-02-26",
             "TEÓFILO OTONI",
             "2277,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 625,
@@ -15767,7 +15767,7 @@
             "2026-02-26",
             "UBÁ",
             "1800,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 626,
@@ -15792,7 +15792,7 @@
             "2026-02-26",
             "MOEMA",
             "1880,88",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 627,
@@ -15817,7 +15817,7 @@
             "2026-02-26",
             "FORMIGA",
             "2250,67",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 628,
@@ -15842,7 +15842,7 @@
             "2026-02-26",
             "CABECEIRA GRANDE",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 629,
@@ -15867,7 +15867,7 @@
             "2026-02-26",
             "GOIANÁ",
             "1320,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 630,
@@ -15892,7 +15892,7 @@
             "2026-02-26",
             "SÃO JOÃO DA PONTE",
             "2700,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 631,
@@ -15942,7 +15942,7 @@
             "2026-03-26",
             "MONTES CLAROS",
             "2781,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 633,
@@ -15967,7 +15967,7 @@
             "2026-03-26",
             "SABARÁ",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 634,
@@ -15992,7 +15992,7 @@
             "2026-03-26",
             "ARAXÁ",
             "2003,76",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 635,
@@ -16017,7 +16017,7 @@
             "2026-03-26",
             "MONTES CLAROS",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 636,
@@ -16042,7 +16042,7 @@
             "2026-03-26",
             "ESPINOSA",
             "1518,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 637,
@@ -16067,7 +16067,7 @@
             "2026-03-26",
             "PASSA TEMPO",
             "2219,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 638,
@@ -16092,7 +16092,7 @@
             "2026-03-26",
             "PATROCÍNIO",
             "1500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 639,
@@ -16117,7 +16117,7 @@
             "2026-03-26",
             "UBERABA",
             "2227,45",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 640,
@@ -16142,7 +16142,7 @@
             "2026-03-26",
             "BELO HORIZONTE",
             "1551,57",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 641,
@@ -16167,7 +16167,7 @@
             "2026-03-26",
             "BRASÍLIA DE MINAS",
             "1621,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 642,
@@ -16192,7 +16192,7 @@
             "2026-03-26",
             "ITABIRA",
             "2920,79",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 643,
@@ -16217,7 +16217,7 @@
             "2026-03-26",
             "SABINÓPOLIS",
             "1500,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 644,
@@ -16242,7 +16242,7 @@
             "2026-03-26",
             "JUIZ DE FORA",
             "2671,68",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 645,
@@ -16267,7 +16267,7 @@
             "2026-03-26",
             "JANAÚBA",
             "2732,4",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 646,
@@ -16292,7 +16292,7 @@
             "2026-03-26",
             "ARAXÁ",
             "1621,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 647,
@@ -16317,7 +16317,7 @@
             "2026-03-26",
             "SARZEDO",
             "1850,0",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 648,
@@ -16342,7 +16342,7 @@
             "2026-03-26",
             "BELO HORIZONTE",
             "2993,8",
-            "FUNERAL",
+            "FUNERAL ",
             "1"
           ],
           "rowNumber": 649,
