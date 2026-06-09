@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.06,
+  "time": 0.065,
   "errors": [],
   "tasks": [
     {
@@ -52,13 +52,13 @@
         "scheme": "file",
         "title": "Auxilios financeiros",
         "stats": {
-          "hash": "9b1bcaad62230d5f81488656f41b5835",
-          "bytes": 32354,
+          "hash": "f1f8f59d97a62a7d9fb832d776c58e34",
+          "bytes": 34518,
           "fields": 5,
-          "rows": 756
+          "rows": 807
         }
       },
-      "time": 0.051,
+      "time": 0.055,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -19032,16 +19032,1291 @@
           "note": "type is \"integer/default\"",
           "message": "Type error in the cell \"2026-05-01\" in row \"757\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "UBERLÂNDIA",
+            "1650,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 757,
+          "rowPosition": 758,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"758\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "VARGINHA",
+            "938,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 758,
+          "rowPosition": 759,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"759\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MONTES CLAROS",
+            "2993,8",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 759,
+          "rowPosition": 760,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"760\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "ITUMIRIM",
+            "2268,18",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 760,
+          "rowPosition": 761,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"761\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "LAVRAS",
+            "2993,8",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 761,
+          "rowPosition": 762,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"762\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "UBÁ",
+            "1800,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 762,
+          "rowPosition": 763,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"763\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "TEÓFILO OTONI",
+            "2450,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 763,
+          "rowPosition": 764,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"764\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BELO HORIZONTE",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 764,
+          "rowPosition": 765,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"765\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MONTES CLAROS",
+            "2324,89",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 765,
+          "rowPosition": 766,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"766\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CAMPO BELO",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 766,
+          "rowPosition": 767,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"767\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BELO HORIZONTE",
+            "2920,79",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 767,
+          "rowPosition": 768,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"768\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MONTES CLAROS",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 768,
+          "rowPosition": 769,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"769\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CARMÓPOLIS DE MINAS",
+            "1927,91",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 769,
+          "rowPosition": 770,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"770\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CONTAGEM",
+            "1927,91",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 770,
+          "rowPosition": 771,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"771\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "ENGENHEIRO CALDAS",
+            "1880,88",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 771,
+          "rowPosition": 772,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"772\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CATAGUASES",
+            "2139,72",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 772,
+          "rowPosition": 773,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"773\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BRASÍLIA DE MINAS",
+            "2920,79",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 773,
+          "rowPosition": 774,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"774\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "SETE LAGOAS",
+            "1200,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 774,
+          "rowPosition": 775,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"775\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BAMBUÍ",
+            "2235,71",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 775,
+          "rowPosition": 776,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"776\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "UBÁ",
+            "2126,92",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 776,
+          "rowPosition": 777,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"777\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MIRAVÂNIA",
+            "2684,49",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 777,
+          "rowPosition": 778,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"778\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "PATOS DE MINAS",
+            "2993,8",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 778,
+          "rowPosition": 779,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"779\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "PASSOS",
+            "2993,8",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 779,
+          "rowPosition": 780,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"780\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "UBÁ",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 780,
+          "rowPosition": 781,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"781\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "SALINAS",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 781,
+          "rowPosition": 782,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"782\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "SANTA MARIA DO SUAÇUÍ",
+            "2917,8",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 782,
+          "rowPosition": 783,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"783\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "GOVERNADOR VALADARES",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 783,
+          "rowPosition": 784,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"784\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MONTES CLAROS",
+            "1746,61",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 784,
+          "rowPosition": 785,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"785\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CAPELINHA",
+            "2048,88",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 785,
+          "rowPosition": 786,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"786\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BRASÍLIA DE MINAS",
+            "1746,61",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 786,
+          "rowPosition": 787,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"787\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "PIRANGA",
+            "1799,07",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 787,
+          "rowPosition": 788,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"788\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "BRASILÂNDIA DE MINAS",
+            "2431,5",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 788,
+          "rowPosition": 789,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"789\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "JANUÁRIA",
+            "2920,79",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 789,
+          "rowPosition": 790,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"790\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "MONTES CLAROS",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 790,
+          "rowPosition": 791,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"791\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "DIVINÓPOLIS",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 791,
+          "rowPosition": 792,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"792\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "UBERLÂNDIA",
+            "1605,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 792,
+          "rowPosition": 793,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"793\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "PIUMHI",
+            "1621,88",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 793,
+          "rowPosition": 794,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"794\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "CATAGUASES",
+            "1302,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 794,
+          "rowPosition": 795,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"795\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "COROMANDEL",
+            "1824,04",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 795,
+          "rowPosition": 796,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"796\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "ARAXÁ",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 796,
+          "rowPosition": 797,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"797\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "ARAÚJOS",
+            "1746,61",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 797,
+          "rowPosition": 798,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"798\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "ERVÁLIA",
+            "1621,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 798,
+          "rowPosition": 799,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"799\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-05",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-05",
+            "NOVO CRUZEIRO",
+            "1500,0",
+            "FUNERAL ",
+            "1"
+          ],
+          "rowNumber": 799,
+          "rowPosition": 800,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-05\" in row \"800\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-06",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-06",
+            "SÃO SEBASTIÃO DO PARAÍSO",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 800,
+          "rowPosition": 801,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-06\" in row \"801\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-07",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-07",
+            "SÃO SEBASTIÃO DO PARAÍSO",
+            "1823,63",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 801,
+          "rowPosition": 802,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-07\" in row \"802\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-08",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-08",
+            "JANUÁRIA",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 802,
+          "rowPosition": 803,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-08\" in row \"803\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-09",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-09",
+            "MANHUAÇU",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 803,
+          "rowPosition": 804,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-09\" in row \"804\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-10",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-10",
+            "FORMIGA",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 804,
+          "rowPosition": 805,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-10\" in row \"805\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-11",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-11",
+            "MANHUAÇU",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 805,
+          "rowPosition": 806,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-11\" in row \"806\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-12",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-12",
+            "PONTE NOVA",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 806,
+          "rowPosition": 807,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-12\" in row \"807\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2026-06-13",
+          "fieldName": "data_ref",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026-06-13",
+            "MONTES CLAROS",
+            "1215,75",
+            "NATALIDADE",
+            "1"
+          ],
+          "rowNumber": 807,
+          "rowPosition": 808,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026-06-13\" in row \"808\" and field \"data_ref\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
         }
       ],
       "stats": {
-        "errors": 758
+        "errors": 809
       },
       "valid": false
     }
   ],
   "stats": {
-    "errors": 758,
+    "errors": 809,
     "tasks": 1
   },
   "valid": false
